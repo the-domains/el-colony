@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords: []
 description: 'This is "Brad Parker _ Anta _ KT1" by elcolony on Vimeo, the home for high quality videos and the people who love them.'
 app_links:
@@ -40,13 +40,16 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/152753569'
 title: Brad Parker _ Anta _ KT1
-datePublished: '2016-03-30T23:21:36.940Z'
-dateModified: '2016-03-30T23:15:42.810Z'
+datePublished: '2016-03-31T01:45:29.335Z'
+dateModified: '2016-03-31T01:41:12.542Z'
 sourcePath: _posts/2016-03-30-brad-parker-_-anta-_-kt1.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
